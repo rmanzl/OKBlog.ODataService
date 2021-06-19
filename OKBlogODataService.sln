@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKBlogODataService", "OKBlogODataService\OKBlogODataService.csproj", "{100A920F-56DE-4C27-B933-48ADAAFD45D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKBlogDataGenerator", "OKBlogDataGenerator\OKBlogDataGenerator.csproj", "{CC3ACC66-1342-4970-9823-70EEE36D1ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100A920F-56DE-4C27-B933-48ADAAFD45D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100A920F-56DE-4C27-B933-48ADAAFD45D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100A920F-56DE-4C27-B933-48ADAAFD45D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100A920F-56DE-4C27-B933-48ADAAFD45D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3ACC66-1342-4970-9823-70EEE36D1ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3ACC66-1342-4970-9823-70EEE36D1ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3ACC66-1342-4970-9823-70EEE36D1ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3ACC66-1342-4970-9823-70EEE36D1ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60BB2597-9FCC-402D-919A-FBC7714153BF}
+	EndGlobalSection
+EndGlobal
